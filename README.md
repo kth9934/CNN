@@ -1,6 +1,6 @@
 # CNN practice in MARG
 
-## Download list you need to :
+## List you need to download :
 #### 1. *.jpg (total 10 files, each indicates from 0 to 1) 
 #### 2. mnist_cnn_model.h5 & mnist_cnn_weight.h5 (each files include final form of model and weights (i.e. well-trained))
 #### 3. Image_processing_tutorial_test.py (change all *.jpg into input_format(array from each images))
